@@ -1,0 +1,107 @@
+
+.App-header {
+  background-color: #282c34;
+  height: 60px;
+  display:block;
+  font-size:20px;
+  color: white;
+  padding:20px 10px;
+  text-align: left;
+}
+h1
+{
+  margin: 0px !important;
+}
+.content-area
+{
+  padding:30px 30px;
+}
+.search-area
+{
+  padding: 10px;
+}
+.search-bar
+{
+  
+  display: flex;
+}
+.button-area
+{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.custom-button
+{
+  width: 200px;
+    height: 40px;
+    padding: 8px;
+    background-color: #282c34;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    font-size: 18px;
+    color: darkgray;
+    box-shadow: 0px 13px 15px -11px black;
+    cursor: pointer;
+
+}
+.details-box
+{
+  display:block;
+  padding-left:40px;
+}
+.img-size
+{
+  width:150px;
+  height:150px;
+}
+.title
+{
+  color:#282c34;
+}
+.inputfield
+{
+width:100%;
+border-radius: 4px;
+    box-shadow: 0px 1px 8px -2px #282c34;
+    border: none;
+    outline: none;
+    padding: 14px 12px;
+    font-size: 16px;
+}
+.search-result
+{
+  padding: 10px;
+}
+.result-card
+{
+  box-shadow: 0px 4px 22px -11px black;
+    padding: 16px;
+    border-radius: 4px;
+    border-left: 10px solid #4a4848;
+    border-right: 10px solid #4a4848;
+    margin-bottom: 30px;
+}
+.custom-button2
+{
+  padding: 6px;
+    border: none;
+    border-radius: 4px;
+    background-color: #282c34;
+    color: white;
+    box-shadow: 0px 6px 11px -6px black;
+}
+
+.App-link {
+  color: darkgray;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
